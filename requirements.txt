@@ -1,0 +1,6 @@
+fastapi[standard]
+websockets
+uvicorn[standard]
+uvicorn
+numpy
+game-generation-utils==0.7
